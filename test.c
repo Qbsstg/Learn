@@ -76,6 +76,7 @@ int main(void) {
      * % 代表提醒程序，要在该处打印一个变量，d表明把变量作为十进制整数打印。
      */
     printf("My favorite number is %d because it is first.\n", num);
+
     getchar();
 
     /**
