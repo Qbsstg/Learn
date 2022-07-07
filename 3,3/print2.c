@@ -14,7 +14,7 @@ int main(void) {
     printf("un = %u and not %d\n",un,un);
     printf("end = %hd and not %d\n",end,end);
     printf("big = %ld and not %hd\n",big,big);
-    printf("veryBig = %lld and not %ld\n",veryBig,veryBig);
+    printf("veryBig = %lld and not %ld\a",veryBig,veryBig);
 
     return 0;
 }
